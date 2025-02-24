@@ -82,7 +82,7 @@ footer {
   margin-bottom: 48px;
 }
 .footerInnerDiv2 {
-  width: 160px;
+  width: 132px;
   height: 152px;
   margin-top: 72px;
   margin-bottom: 71px;
@@ -122,4 +122,38 @@ footer {
 }
 #X6 {
   margin-top: 24px;
+}
+.TableOfContents {
+  display: flex;
+  flex-direction: column;
+  height: 156px;
+  justify-content: space-between;
+}
+.secondpagediv {
+  display: flex;
+  margin-top: 123px;
+  height: 800px;
+}
+.paragraph {
+  width: 500px;
+  margin-left: 244px;
+  color: #959393;
+
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0px;
+}
+#K1 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: #3f3b3b;
+}
+#K2 {
+  margin-top: 93px;
+  margin-bottom: 93px;
+  margin-left: 380px;
+  margin-right: 0px;
 }
